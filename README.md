@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Narrendra
+- 👋 Hi, I’m @Narendra
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Data modelling and engineering 
 - 💞️ I’m looking to collaborate on DATA DATA DATA
