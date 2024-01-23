@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Narendra
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data modelling and engineering 
-- 💞️ I’m looking to collaborate on DATA DATA DATA
+👋 Hello there! I'm Naren, a Data Engineer with over 10 years of hands-on experience in crafting robust data solutions. My expertise spans a wide range of data engineering domains, including ingestion, curation, analytics, data governance, and data quality.
 
 
 <!---
